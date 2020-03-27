@@ -26,7 +26,7 @@
 						</svg>
 						&nbsp;
 						<!-- Ellorie Bugna Jr -->
-						<h1 class="title">Milligram</h1>
+						<h1 class="title">Ellorie Bugna Jr</h1>
 					</a>
 					<ul class="navigation-list float-right">
 						<li class="navigation-item">
