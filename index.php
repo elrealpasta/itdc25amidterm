@@ -25,7 +25,7 @@
 							</g>
 						</svg>
 						&nbsp;
-						<!-- Change Milligram to your full name -->
+						<!-- Ellorie Bugna Jr -->
 						<h1 class="title">Milligram</h1>
 					</a>
 					<ul class="navigation-list float-right">
